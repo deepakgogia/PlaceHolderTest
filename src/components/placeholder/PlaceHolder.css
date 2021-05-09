@@ -1,0 +1,39 @@
+.div {
+    width:18rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    float: left;
+}
+
+.mainContent {
+    height:10rem;
+    background-color: lightgrey;
+}
+
+.otherContent {
+    margin-top: 1rem;
+    display:flex ;
+}
+.circle {
+    width: 2rem;
+    background-color: gainsboro;
+    height: 2rem;
+    border-radius: 50%;
+}
+
+.headingDiv {
+    margin-left: 1rem;
+    width: 12rem;
+}
+
+.heading1 {
+    background-color:gainsboro;
+    height: 1rem;
+}
+
+.heading2 {
+    width: 10rem;
+    height: 1rem;
+    margin-top: 0.6rem;
+    background-color:gainsboro;
+}
